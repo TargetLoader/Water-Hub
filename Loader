@@ -342,12 +342,6 @@ local OfficialScripts = {
 		Description = "Supports Slap Tower 2 and other games"
 	},
 	{
-		Name = "No Lag Hub",
-		Category = "Games",
-		Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/NukeVsCityLoader/NoLag/refs/heads/main/NoLagHub'))()",
-		Description = "Advanced game hub"
-	},
-	{
 		Name = "Ro Ghoul Script",
 		Category = "Games",
 		Loadstring = "loadstring(game:HttpGet('https://raw.githubusercontent.com/PorryDepTrai/exploit/main/DashBoostSolora.lua'))()",
